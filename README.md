@@ -12,20 +12,20 @@ This Mail Merge Automation project simplifies the process of creating personaliz
 
 # Folder Structure
 The project is organized into the following folder structure:
-[```
-mail-merge/
-│
-├── Input/
-│   ├── Letters/
-│   │   └── starting_letter.docx
-│   ├── Names/
-│   │   └── invited_names.txt
-│
-├── Output/
-│   └── ReadyToSend/
-│       └── example.docx
-│
-├── main.py```]
+- [```
+- mail-merge/
+- │
+- ├── Input/
+- │   ├── Letters/
+- │   │   └── starting_letter.docx
+- │   ├── Names/
+- │   │   └── invited_names.txt
+- │
+- ├── Output/
+- │   └── ReadyToSend/
+- │       └── example.docx
+- │
+- ├── main.py```]
 
 - **Input:** Contains the template letter and the list of invitee names.
   - Letters/starting_letter.docx: The letter template that contains a placeholder for the names.
