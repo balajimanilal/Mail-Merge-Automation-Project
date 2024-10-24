@@ -4,7 +4,7 @@ This project automates the process of creating personalized letters by merging a
 # Project Overview
 This Mail Merge Automation project simplifies the process of creating personalized letters. The script reads a list of names, replaces a placeholder ([name]) in a template letter with each individual name, and saves each personalized letter as a .docx file in the output folder.
 
-# File Descriptions
+# File Description
 - **main.py:** The Python script that handles reading the names and the template letter, replaces the placeholder with individual names, and generates personalized letters.
 - **starting_letter.docx:** The template letter containing the placeholder [name].
 - **invited_names.txt:** A text file with a list of names, each on a new line, to be merged into the template letter.
